@@ -55,7 +55,19 @@
             Console.WriteLine("Employee Position: " + employee20.position);
             Console.WriteLine("Employee Salary: " + employee20.salary);
 
+            Product apple1 = new Product(56, "Apple", 1);
+            apple1.SetProductId(3);
+            apple1.SetName("Local Apple");
+            apple1.SetPrice(3);
+            //apple1.GetName();
+            //apple1.GetProductId();
+            //apple1.GetPrice();
+            //apple1.GetDiscountedPrice(10);
 
+            Console.WriteLine("Product Detail: ");
+            Console.WriteLine("Name: "+ apple1.GetName());
+            Console.WriteLine("Product ID: " + apple1.GetProductId());
+            Console.WriteLine("Product Price: "+ apple1.GetDiscountedPrice(10));
 
         }
     }
