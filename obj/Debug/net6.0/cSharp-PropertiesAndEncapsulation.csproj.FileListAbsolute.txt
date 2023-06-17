@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\cSharp-PropertiesAndEncapsulation.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\cSharp-PropertiesAndEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\cSharp-PropertiesAndEncapsulation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\cSharp-PropertiesAndEncapsulation.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\cSharp-PropertiesAndEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\bin\Debug\net6.0\cSharp-PropertiesAndEncapsulation.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\bin\Debug\net6.0\cSharp-PropertiesAndEncapsulation.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\bin\Debug\net6.0\cSharp-PropertiesAndEncapsulation.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\bin\Debug\net6.0\cSharp-PropertiesAndEncapsulation.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\bin\Debug\net6.0\cSharp-PropertiesAndEncapsulation.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\cSharp-PropertiesAndEncapsulation.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\refint\cSharp-PropertiesAndEncapsulation.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\cSharp-PropertiesAndEncapsulation.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\cSharp-PropertiesAndEncapsulation.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-PropertiesAndEncapsulation\cSharp-PropertiesAndEncapsulation\obj\Debug\net6.0\ref\cSharp-PropertiesAndEncapsulation.dll

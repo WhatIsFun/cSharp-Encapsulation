@@ -17,6 +17,12 @@ namespace cSharp_PropertiesAndEncapsulation
 
         // Set the name of the person
          
+        public Person(string name, int age, string address)
+        {
+            this.name = name;
+            this.age = age;
+            this.address = address;
+        }
         public void SetName(string newName)
         {
             name = newName;

@@ -21,40 +21,41 @@ namespace cSharp_PropertiesAndEncapsulation
             this.color = color;
         }
 
-        public void LockButtonPressed()
-        {
-            isDoorLocked = true;
-        }
+        //public void LockButtonPressed()
+        //{
+        //    isDoorLocked = true;
+        //}
 
-        public void UnlockButtonPressed()
-        {
-            isDoorLocked = false;
-        }
+        //public void UnlockButtonPressed()
+        //{
+        //    isDoorLocked = false;
+        //}
 
-        public bool StartEngine()
-        {
-            IsEngineRunning = true;
-            return IsEngineRunning;
-        }
+        //public bool StartEngine()
+        //{
+        //    IsEngineRunning = true;
+        //    return IsEngineRunning;
+        //}
 
-        public bool StopEngine()
-        {
-            IsEngineRunning = false;
-            return IsEngineRunning;
-        }
+        //public bool StopEngine()
+        //{
+        //    IsEngineRunning = false;
+        //    return IsEngineRunning;
+        //}
 
-        public void moveCar()
-        {
-            if (IsEngineRunning)
-            {
-                this.LockButtonPressed();
-                Console.WriteLine("Car is moving");
-            }
-            else
-            {
-                this.UnlockButtonPressed();
-                Console.WriteLine("Car is not moving.");
-            }
+        //public void moveCar()
+        //{
+        //    if (IsEngineRunning)
+        //    {
+        //        this.LockButtonPressed();
+        //        Console.WriteLine("Car is moving");
+        //    }
+        //    else
+        //    {
+        //        this.UnlockButtonPressed();
+        //        Console.WriteLine("Car is not moving.");
+        //    }
 
-        }
+        //}
     }
+}

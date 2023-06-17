@@ -8,5 +8,6 @@ namespace cSharp_PropertiesAndEncapsulation
 {
     internal class Bank_Account
     {
+
     }
 }
